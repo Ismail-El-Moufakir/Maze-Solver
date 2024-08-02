@@ -16,8 +16,8 @@ Maze-Solver is a Python-based project designed to generate and solve mazes using
 
 ## Features
 
-- **Maze Generation**: Create random mazes with adjustable complexity.
-- **Pathfinding Algorithms**: Implemented algorithms include A*, Dijkstra, and Depth-First Search.
+- **Maze Generation**: Create random mazes with adjustable with diff algorithms.
+- **Pathfinding Algorithms**: Implemented algorithms include A*, and Depth-First Search.
 - **Reinforcement Learning Agent**: Use reinforcement learning to solve mazes.
 - **Visualization**: Visual representation of maze generation and solving process.
 
